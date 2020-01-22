@@ -1,0 +1,164 @@
+body {
+  font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    background: linear-gradient(to right, red , yellow);
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us4.list-manage.com","uuid":"dafb9eb459785f0220acf8cd6","lid":"2bb6cce9d1","uniqueMethods":true}) })</script>
+*/
+
+/*
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-top: 130px;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+img{
+	width: 450px;
+	height: 300px;
+	margin: 10px;
+	transition: all 1s;
+}
+img:hover{
+	transform: scale(1.2);
+}
+*/
+
+/*.x{
+	display: flex;
+	background-color: dodgerblue;
+	height: 50px;
+	font-size: 25px;
+	align-items: center;
+	justify-content: center;
+	color: white;
+}
+.heading{
+	display: flex;
+	background-color: #1abc9c;
+	font-size: 30px;
+	color: white;
+	height: 50px;
+	align-items: center;
+	justify-content: center;
+}
+.linku a{
+	display: flex;
+	text-decoration: none;
+	background-color: green;
+	color: white;
+	height: 50px;
+	font-size: 22px;
+	align-items: center;
+	justify-content: center;
+}
+.p a:hover{
+	display: flex;
+	background-color: #f1f1f1;
+	color: green;
+}
+.imga{
+	display: flex;
+	display: block;
+	width: 250px;
+	border-radius: 80px;
+	border: 20px solid pink;
+}/*
+
+
+/*body{
+	/*background-image: url(2016-11-25_27953.png);*/
+	/*background-size: cover;
+}*/
+
+/*a:link, a:visited{
+	padding: 20px;
+	margin: 2px;
+	background-color: grey;
+	text-decoration: none;
+	font-size: 20px;
+	color: white;
+	display: inline-block;
+}
+a:hover{
+	background-color: red;
+}
+a:active{
+	background-color: green;
+}
+#ac{
+	background-color: white;
+	padding: none;
+	margin: none;
+}*/
+/*h1,p{
+	color: #AA4139;
+	text-align: center;
+	border: 10px solid rgba(255,176,170,0.5);
+	cursor: pointer;
+}
+.sssss{
+	border: 5px dashed green;
+	color: rgb(255,0,0);
+}
+.pp{
+	color: rgb(255,0,255);
+}*/
